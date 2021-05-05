@@ -1,4 +1,4 @@
-# CMT316 Coursework I Part 2
+# Simple news clf
 
 - [**Project Repository**](https://bitbucket.org/4r2eBurger/news_clf/src/master/)
 - [**Project Report**](https://bitbucket.org/4r2eBurger/news_clf/src/master/report_latex/CWI_part2_report.pdf)
