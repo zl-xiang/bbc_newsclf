@@ -1,0 +1,5 @@
+[0] Config.pm:304> INFO - This is Biber 2.12
+[0] Config.pm:307> INFO - Logfile is '/Users/mac/Documents/Academic/ACS_CU/CMT316 Applications of Machine Learning: NLP and CV/CW/cw_1/news_clf/report_latex/CWI_part2_report.blg'
+[36] biber-darwin:315> INFO - === Mon Apr 19, 2021, 23:21:33
+[61] Biber.pm:371> INFO - Reading '/Users/mac/Documents/Academic/ACS_CU/CMT316 Applications of Machine Learning: NLP and CV/CW/cw_1/news_clf/report_latex/CWI_part2_report.bcf'
+[134] Utils.pm:193> WARN - No data sources defined!

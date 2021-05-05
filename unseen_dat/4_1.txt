@@ -1,0 +1,47 @@
+School cyber-attack affects 40,000 pupils’ email
+
+A ransomware attack on multiple schools has left 37,000 pupils unable to access their email.
+
+The Harris Federation, which runs 50 primary and secondary academies in and around London, said it had temporarily disabled email while it deals with the cyber-attack.
+
+Data on the systems has been encrypted and hidden by the attackers.
+
+Last week, the National Cyber Security Centre (NCSC) issued a warning that hackers are targeting schools.
+
+'Sophisticated attack'
+“We are at least the fourth multi-academy trust to have been targeted in March,” a statement on the Harris Federation website said.
+
+“This is a highly sophisticated attack that will have a significant impact on our academies but it will take time to uncover the exact details of what has or has not happened, and to resolve.
+
+“As a precaution, we have temporarily disabled our email system.”
+
+Any devices which the Harris Federation have given to pupils have also been disabled, the statement added.
+
+However, schools have recently returned to in-person learning as part of the easing of lockdown restrictions - meaning students can still attend classes.
+
+
+media captionTechnology explained: what is ransomware?
+Harris Federation schools break up for Easter later this week.
+
+Its statement did not detail what information or data has been compromised, and it has not yet responded to the BBC's request for comment.
+
+The trust is working with “a specialised firm of cyber-technology consultants”, the National Crime Agency and the NCSC to resolve the issues.
+
+The NCSC said it has "recently alerted the education sector to the significant threat posed by ransomware attacks" and urged schools and colleges to follow its advice to protect themselves online.
+
+Presentational grey line
+Analysis box by Joe Tidy, Cyber reporter
+It used to be the case that ransomware groups concentrated their efforts on large multinational companies.
+
+Big corporate budgets and potential business interruption mean large ransom payouts.
+
+Publicly funded schools and colleges are therefore an odd and particularly cruel target.
+
+One hacker group recently posted part of their negotiation conversation with another unnamed institution on the dark net.
+
+It made for grim reading, and once again showed me how ruthless they are.
+
+At one stage, when the hackers demanded $15m, the school wrote: "Sir, please, this is NOT a business with profits. We operate much like a charity operates. This is a state-funded school, our salaries are paid for by taxing the people that live in the state. We have no idea how you think we can afford this."
+
+This wave of attacks in the US and UK show the hackers have no regard for where the money comes from or who is affected.
+
