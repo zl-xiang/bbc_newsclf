@@ -59,7 +59,7 @@ Needs to be run in [**Conda**](https://docs.conda.io/projects/conda/en/latest/in
 
 #### Conda dependencies
 
-- python 3.9 `conda install python=3.9`
+- python 3 `conda install python=3.9`
 
 - scikit-learn 0.23.2  `conda install -c conda-forge scikit-learn=0.23.2` 
 
@@ -101,4 +101,4 @@ Run `python unseen_test.py`
 
 Run `python sLDA_test.py` or run jupyter notebook demo `sLDA_test.ipynb`
 
-*Has been tested on OSX and Ubuntu container, might fail in Linux due to [unsolved bug](https://github.com/bab2min/tomotopy#history) of tomotopy library.
+* Tested on OSX and Ubuntu container, might fail in Linux due to [unsolved bug](https://github.com/bab2min/tomotopy#history) of tomotopy library.
